@@ -1,6 +1,6 @@
  <!-- TOP BANNER & HEADLINE -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1c23&height=200&section=header&text=Hi,%20I'm%20YourName&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=1a1c23&height=200&section=header&text=Hi,%20I'm%20Yoursam&fontSize=40&fontColor=ffffff&animation=twinkling" width="100%" alt="Header Banner" />
   
   <h3>🚀  python full stack devloper / Tech Enthusiast</h3>
   <p><em>"Always learning, always building."</em></p>
