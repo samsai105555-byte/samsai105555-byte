@@ -34,7 +34,7 @@ Hello! I'm sam. I am a passionate python full stack focused on building clean, i
 
   #### Tools & DevOps
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+ 
   
 
 </div>
